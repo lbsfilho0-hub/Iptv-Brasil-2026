@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGNxYm9sN2JocWg5Z2JzdXczNnBkcmE0NnB3cjl2NHM5bno1YWlnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j1QQj6To9Pbxu/200.webp" alt="Computer man" style="width:350px;height:200px;">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJtbTh2emlwdXlwZHd0azIwN3UxdzllM3ZvOHo4M3hnYnR1aGRocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/psmk2jPQD9SehTG3bE/giphy.gif" alt="Computer man" style="width:350px;height:200px;">
 
 # IPTV Brasil 2026 - Canais, Filmes e Séries
 ### <i class="fa-brands fa-pix">
